@@ -1,0 +1,5 @@
+/composer.lock
+/symfony.lock
+/vendor/
+/.env.local
+/var/

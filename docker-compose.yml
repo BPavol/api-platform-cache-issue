@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  php:
+    image: "php:8.2.4-cli-alpine3.17"
+    working_dir: /var/www
+    volumes:
+      - ./:/var/www
